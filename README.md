@@ -10,7 +10,7 @@ Core Code Web Developer Course From Scratch
 3. **Multiply the local currency amount by the USD price.**
 ### 5. Anwser to the question: Why is pseudocode helpful? *It helps us to sketch our ideas in a programmed way.*
 ### 6. Create a pseudocode to calculate the aproximated age of a user base on the year they born, (you can define a variable with the actual year if you need it, like for example i could define Y <-- 2022)
-`userYearBorn is getUserYearBorn()`
-`currentYear is getCurrentYear()`
+`userYearBorn is getUserYearBorn()`<br>
+`currentYear is getCurrentYear()` <br>
 `approximateAge is currentYear minus userYearBorn`
 ### 8. Answer to the question: Why are flowcharts important to us as developers? *It helps us to have a visual version of the algorithm*
