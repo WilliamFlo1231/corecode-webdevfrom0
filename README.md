@@ -13,4 +13,4 @@ Core Code Web Developer Course From Scratch
 `userYearBorn is getUserYearBorn()`<br>
 `currentYear is getCurrentYear()` <br>
 `approximateAge is currentYear minus userYearBorn`
-### 8. Answer to the question: Why are flowcharts important to us as developers? *It helps us to have a visual version of the algorithm*
+### 8. Answer to the question: Why are flowcharts important to us as developers? *It helps us to have a visual version of the algorithm (processes, conditionals, loops)*
