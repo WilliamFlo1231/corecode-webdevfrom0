@@ -14,3 +14,13 @@ Core Code Web Developer Course From Scratch
 `currentYear is getCurrentYear()` <br>
 `approximateAge is currentYear minus userYearBorn`
 ### 8. Answer to the question: Why are flowcharts important to us as developers? *It helps us to have a visual version of the algorithm (processes, conditionals, loops)*
+
+## Wednesday
+### 2. Translate the year you where born to binary, decimal and hexadecimal
+- Binary: 11111001111
+- Decimal: 1999
+- Hex: 7CF
+
+### 3. Translate 51966 into hexadecimal and binary
+- Hex: CAFE
+- Binary: 1100101011111110
